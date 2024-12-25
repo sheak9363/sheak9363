@@ -10,9 +10,9 @@
 
 - 🧠 Artificial Intelligence: Machine learning, deep learning, and NLP.
 
--📊 Data Science: Data analysis, visualization, and predictive modeling.
+- 📊 Data Science: Data analysis, visualization, and predictive modeling.
 
--💡 Web Development: Creating responsive and dynamic web applications.
+- 💡 Web Development: Creating responsive and dynamic web applications.
 
 📫 Want to reach me? Drop a message here: abisheakanburajaofficial@gmail.com
 <!---
