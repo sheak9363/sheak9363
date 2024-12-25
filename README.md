@@ -2,17 +2,17 @@
 
 🌟 Currently pursuing my Bachelor's degree in Artificial Intelligence and Data Science, exploring the exciting world of AI, machine learning, and data analytics.
 
-   💻 Proficient in programming languages like Python, C++, and C, with hands-on experience in both SQL and NoSQL databases.
+- 💻 Proficient in programming languages like Python, C++, and C, with hands-on experience in both SQL and NoSQL databases.
 
-   🤖 Passionate about building machine learning models, working with deep learning frameworks, and solving complex data-driven challenges.
+- 🤖 Passionate about building machine learning models, working with deep learning frameworks, and solving complex data-driven challenges.
 
 🌐 My Interests
 
-   🧠 Artificial Intelligence: Machine learning, deep learning, and NLP.
+- 🧠 Artificial Intelligence: Machine learning, deep learning, and NLP.
 
-   📊 Data Science: Data analysis, visualization, and predictive modeling.
+-📊 Data Science: Data analysis, visualization, and predictive modeling.
 
-   💡 Web Development: Creating responsive and dynamic web applications.
+-💡 Web Development: Creating responsive and dynamic web applications.
 
 📫 Want to reach me? Drop a message here: abisheakanburajaofficial@gmail.com
 <!---
