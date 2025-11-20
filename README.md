@@ -1,6 +1,6 @@
 👋 Hi, I’m Abisheak Anburaja
 
-🌟 Currently pursuing my Bachelor's degree in Artificial Intelligence and Data Science, exploring the exciting world of AI, machine learning, and data analytics.
+🌟 Currently exploring the exciting world of AI, machine learning, and data analytics.
 
 - 💻 Proficient in programming languages like Python, C++, and C, with hands-on experience in both SQL and NoSQL databases.
 
